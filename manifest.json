@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Update",
+    "version": "1.0.0",
+    "description": "One of the best extesion",
+    "manifest_version": 3,
+    "author": "Sarthak Bornare",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Chrome Extension"
+    }
+}
